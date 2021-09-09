@@ -22,14 +22,18 @@ The model requires a reference audio from a target speaker and a sample text to 
 1) Clone the git repository
 
 ```
-git clone git@github.com:ChowdhuryAnurag/DeepTalk-Deployment.git
+git clone https://github.com/iPRoBe-lab/DeepTalk.git 
+
+or 
+
+git clone https://github.com/sushantakpani/DeepTalk.git
 ```
 
-2) Now you should have a folder named 'DeepTalk-Deployment'
+2) Now you should have a folder named 'DeepTalk'
 
-3) Go into the folder 'DeepTalk-Deployment'
+3) Go into the folder 'DeepTalk'
 ```
-cd DeepTalk-Deployment
+cd DeepTalk
 ```
 
 4) Please contact the maintainer of this repository at [chowdh51@msu.edu] for access to the pretrained DeepTalk models. Unzip 'trained_models.zip' (received separately from the maintainer) into this folder
